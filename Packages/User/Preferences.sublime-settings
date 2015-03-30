@@ -1,0 +1,15 @@
+{
+	"auto_complete_selector": "source, text",
+	"color_scheme": "Packages/Oasis Theme/Oasis.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spacegray_sidebar_font_xlarge": true,
+	"spacegray_sidebar_tree_large": true,
+	"spacegray_tabs_auto_width": false,
+	"spacegray_tabs_font_xlarge": true,
+	"spacegray_tabs_xlarge": true,
+	"theme": "Spacegray Eighties.sublime-theme"
+}

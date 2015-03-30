@@ -1,0 +1,25 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"C++ Starting Kit",
+		"CMakeEditor",
+		"DocBlockr",
+		"Git",
+		"GitGutter",
+		"LaTeXTools",
+		"Numix Theme",
+		"Oasis Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"Theme - Brogrammer",
+		"Theme - itg.flat",
+		"Theme - Spaceblack",
+		"Theme - Spacegray"
+	]
+}
